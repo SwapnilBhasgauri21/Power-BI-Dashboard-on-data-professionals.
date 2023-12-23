@@ -15,9 +15,4 @@ o Gauges: Quantified average ratings for work-life balance and salary satisfacti
 • Emphasis was placed on personalizing the dashboard layout and branding to suit individual preferences.  
 # Key Learnings and Takeaways:  
 • This project provided a hands-on introduction to Power BI, focusing on data preparation, transformation, and effective visualization techniques.  
-• It showcased the platform's capabilities in analyzing and presenting survey data in a clear and visually engaging manner.  
-• Viewers were encouraged to experiment with the given data and visualizations to create their own unique dashboards.  
-# Future Opportunities:  
-• The project leader indicated plans for further data exploration and advanced visualizations using the same dataset in upcoming sessions.  
-• Learners were encouraged to download the data and independently practice building dashboards based on the provided project guide.  
-Overall, this project served as a valuable resource for learning Power BI and harnessing its potential to create insightful and compelling data-driven dashboards.   
+• It showcased the platform's capabilities in analyzing and presenting survey data in a clear and visually engaging manner.   
